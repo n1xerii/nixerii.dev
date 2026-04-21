@@ -719,19 +719,19 @@
 
                     <form class="contact-form" id="contactForm">
                         <div class="form-group">
-                            <input type="text" class="form-input" placeholder="Name" data-placeholder-en="Name" data-placeholder-ar="الاسم" required>
+                            <input id="nameInput" type="text" class="form-input" placeholder="Name" data-placeholder-en="Name" data-placeholder-ar="الاسم" required>
                         </div>
                         <div class="form-group">
-                            <input type="email" class="form-input" placeholder="Email" data-placeholder-en="Email" data-placeholder-ar="البريد الإلكتروني" required>
+                            <input id="emailInput" type="email" class="form-input" placeholder="Email" data-placeholder-en="Email" data-placeholder-ar="البريد الإلكتروني" required>
                         </div>
                         <div class="form-group">
-                            <input type="text" class="form-input" placeholder="Subject" data-placeholder-en="Subject" data-placeholder-ar="الموضوع" required>
+                            <input id="subjectInput" type="text" class="form-input" placeholder="Subject" data-placeholder-en="Subject" data-placeholder-ar="الموضوع" required>
                         </div>
                         <div class="form-group">
-                            <textarea class="form-input form-textarea" rows="5" placeholder="Message" data-placeholder-en="Message" data-placeholder-ar="الرسالة" required></textarea>
+                            <textarea id="messageInput" class="form-input form-textarea" rows="5" placeholder="Message" data-placeholder-en="Message" data-placeholder-ar="الرسالة" required></textarea>
                         </div>
-                        <button type="submit" class="btn btn-primary btn-submit">
-                            <span data-text-en="Send Message" data-text-ar="إرسال الرسالة">Send Message</span>
+                        <button id="submitButton" type="submit" class="btn btn-primary btn-submit" disabled>
+                            <span data-text-en="Currently disabled" data-text-ar="إرسال الرسالة">Send Message</span>
                             <i class="fas fa-paper-plane"></i>
                         </button>
                     </form>
