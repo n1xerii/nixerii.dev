@@ -1,6 +1,4 @@
-# nixerii.dev
-Developer website.
-
+# Nixerii Developer Website
 ---
  
  **LICENSE**
