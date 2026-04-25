@@ -24,10 +24,10 @@ function initializeApp() {
 }
 
 function loadPreferences() {
-    const savedLang = localStorage.getItem('portfolio-lang');
-    const savedTheme = localStorage.getItem('portfolio-theme');
-    if (savedLang) AppState.currentLang = savedLang;
-    if (savedTheme) AppState.currentTheme = savedTheme;
+    //const savedLang = localStorage.getItem('portfolio-lang');
+    //const savedTheme = localStorage.getItem('portfolio-theme');
+    //if (savedLang) AppState.currentLang = savedLang;
+    //if (savedTheme) AppState.currentTheme = savedTheme;
 }
 
 function initLanguage() {
