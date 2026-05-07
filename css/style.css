@@ -694,7 +694,7 @@ img {
 
 .badge-1 {
     top: 10%;
-    right: -10%;
+    right: -5%;
     animation-delay: 0s;
 }
 
@@ -705,7 +705,7 @@ img {
 }
 
 .badge-3 {
-    top: 50%;
+    top: 30%;
     left: -15%;
     animation-delay: 2s;
 }
