@@ -1,4 +1,4 @@
-# Nixerii Developer Website
+# NIXERII.DEV
  
  **MIT LICENSE** :
  
