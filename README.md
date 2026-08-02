@@ -1,5 +1,4 @@
-# WEBSITE
-[NIXERII](https://n1xerii.github.io/nixerii.dev/) 
+# [DEVELOPER WEBSITE](https://n1xerii.github.io/nixerii.dev/)
 ---
 
  **MIT LICENSE** :
